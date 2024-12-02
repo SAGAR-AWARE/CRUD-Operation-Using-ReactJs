@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "e465",
+      "name": "Shreyas",
+      "company": "Avenue E-commerce",
+      "salary": "700000"
+    },
+    {
+      "id": "e440",
+      "name": "Yogesh",
+      "company": "Raja Software Labs",
+      "salary": "700000"
+    },
+    {
+      "id": "983a",
+      "name": "Hematite Website",
+      "company": "L&T Mindtree",
+      "salary": "1000000"
+    }
+  ]
+}
